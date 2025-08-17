@@ -1,0 +1,11 @@
+[[ACCOUNTS]]
+address = "rm2FabxuAxQWWmrYnTn1rQnmPmyLee4gB"
+network = "main"
+desc = "Issuer account for RLU"
+
+[[CURRENCIES]]
+code = "62524C5553440000000000000000000000000000"                       # 3文字ASCII（XRPは不可）
+issuer = "rm2FabxuAxQWWmrYnTn1rQnmPmyLee4gB"
+network = "main"
+display_decimals = 2
+symbol = "$"
