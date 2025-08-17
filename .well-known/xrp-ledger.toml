@@ -1,7 +1,20 @@
 [[ACCOUNTS]]
 address = "rm2FabxuAxQWWmrYnTn1rQnmPmyLee4gB"
+network = "main"
+desc = "bRLUSD is a yield-accruing vault token."
+
+[[CURRENCIES]]
+code = "62524C5553440000000000000000000000000000"
+issuer = "rm2FabxuAxQWWmrYnTn1rQnmPmyLee4gB"
+network = "main"
+display_decimals = 2
+symbol = "$"
+icon = ""https://xbotfi.github.io/assets/brlusd.png
+
+[[ACCOUNTS]]
+address = "rm2FabxuAxQWWmrYnTn1rQnmPmyLee4gB"
 network = "testnet"
-desc = "Issuer account for RLU"
+desc = "bRLUSD is a yield-accruing vault token."
 
 [[CURRENCIES]]
 code = "62524C5553440000000000000000000000000000"
@@ -9,3 +22,4 @@ issuer = "rm2FabxuAxQWWmrYnTn1rQnmPmyLee4gB"
 network = "testnet"
 display_decimals = 2
 symbol = "$"
+icon = ""https://xbotfi.github.io/assets/brlusd.png
